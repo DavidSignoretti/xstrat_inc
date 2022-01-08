@@ -1,52 +1,32 @@
-## Thank you for purchasing Folio - Creative Agency Portfolio Theme ##
+# xstrat inc
 
-Once you have downloaded the package, after template extracting, you will see the following files & directory structure:
+xstrat helps organizations with impact and cost of development and
+deploying new software applications. When you introduce a change to the organization, you are
+ultimately going to be impacting: Employees, Information Systems, Organizational Structure and
+Process.
 
-```
-docs/
-  ├──  index.html 
-template/
-  ├──  assets
-  │   ├──  CSS/
-  │   ├──  images/
-  │   ├──  include/
-  │   ├──  js/
-  │   ├──  scss/
-  │   └──  vendor/
-  └── All template HTML files
-gulpfile.js
-package.JSON
-package-lock.JSON
-README.MD
-```
+## Expect nothing less than perfect
 
-#### Templates and Assets
+xstrat has a proven track record of helping organizations reduce costs, improve efficiencies, and respecting the environment and employees.
 
-The `template` directory contains all the template files and static resources. To view, just open in your favorite browser!
+## Services
 
-#### Gulpfile.js
+### Virtual CIO/CTO
+Virtual CIO/CTO services merge our extensive IT knowledge and business consulting expertise, functioning as a 
+senior IT executive without the cost of employing one full-time.
 
-We've also included an optional Gulp file to help you get started with theme customization. You’ll need to install Node.js and Gulp before using our included gulpfile.js.
+### Cybersecurity
+Cybersecurity refers to the body of technologies, processes, and practices designed to protect networks, 
+devices, programs, and data from attack, damage, or unauthorized access. Let xstrat help your organization with Cyber Threats
 
-To install Node visit [https://nodejs.org/download](https://nodejs.org/download/).
+### Artificial Intelligence
+Artificial Intelligence and Machine Learning are changing today's business landscape. xstrat is helping private and 
+public industries navigate through this complex world.
 
-To install gulp, run the following command:
+### Database Management
+A database is an organized collection of data, generally stored and accessed electronically from a computer system. 
+Where databases are more complex they are often developed using formal design and modeling techniques.
 
-```
-$ npm install gulp -g
-```
+## Contact
 
-When you’re done, install the rest of the theme's dependencies:
-
-```
-$ npm install
-```
-
-From here, simply run `gulp` from your terminal and you're good to go!
-
-+ `gulp` - recompiles your theme assets.
-
-
-#### Support
-
-If you stuck with any issues or need help/have queries, Please read our documentation included in the package. If you are still not finding any solution, Kindly head over to our [support forum](https://support.webestica.com) and we will be getting in touch with you ASAP.
+[www.xstrat.ca](https://www.xstrat.ca/xcontact.html)
