@@ -28,5 +28,6 @@ A database is an organized collection of data, generally stored and accessed ele
 Where databases are more complex they are often developed using formal design and modeling techniques.
 
 ## Contact
-
-[www.xstrat.ca](https://www.xstrat.ca/xcontact.html)
+###[www.xstrat.ca](https://www.xstrat.ca/xcontact.html)
+###info@xstrat.ca
+### Text Message or Call (905) 378-3391
